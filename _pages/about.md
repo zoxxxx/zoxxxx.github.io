@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "zox's homepage"
 author_profile: true
